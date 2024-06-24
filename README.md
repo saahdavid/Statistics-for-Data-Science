@@ -92,7 +92,7 @@ Be sure to:
 
 - State your hypothesis.
 
-- Use α = 0.05
+- Use $\alpha = 0.05$
 
 - Perform the test Statistics.
 
