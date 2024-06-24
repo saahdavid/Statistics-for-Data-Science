@@ -1,4 +1,4 @@
-# Statistics-for-Data-Science
+# Statistics for Data Science by IBM (Coursera)
 
 
 ## Project Case Scenario
